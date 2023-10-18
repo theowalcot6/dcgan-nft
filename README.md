@@ -28,3 +28,11 @@ The Generator was then evaluated using random Gaussian noise. Then the image was
 The project was completed and the findings were written up, which was continued by another developer as I rolled off. My advice was to focus on a more constricted distribution if they wanted to go commercial and also to apply a deep learning upscaler to turn the 280 x 280 image into something more HD. I also agreed to work in future with the same stakeholder on the same problem statement but using a diffusion model instead (more on that later...)
 
 All code, as well as the outcome, can be viewed [here](https://colab.research.google.com/drive/1bwqNIUFEKwdj2jH0B1M89M5NkxAVotSY?usp=sharing)
+
+5th Epoch
+![image](https://github.com/theowalcot6/dcgan-nft/assets/101593502/70c51231-431d-43ec-944c-478978fa5cfe)
+
+40th Epoch
+![image](https://github.com/theowalcot6/dcgan-nft/assets/101593502/901e0cb4-c34c-424d-ace2-4e1f7374a53f)
+
+
